@@ -1,0 +1,1061 @@
+卷 Data 的文件夹 PATH 列表
+卷序列号为 DA0E-D9CF
+E:.
+│  文件夹结构.txt
+│  文件结构.txt
+│  文件结构生成批处理.cmd
+│  
+├─[Python][AVG]Sinners
+│  │  counter.py
+│  │  Sinners.py
+│  │  读我.txt
+│  │  
+│  ├─bgm
+│  │      dear old home -piano-.mp3
+│  │      dear old home.mp3
+│  │      Deochi!!.mp3
+│  │      favorite loop.mp3
+│  │      harmony with sorrow.mp3
+│  │      harmony.mp3
+│  │      hope.mp3
+│  │      Life is like a Melody.mp3
+│  │      Light colors.mp3
+│  │      love song -piano-.mp3
+│  │      love song.mp3
+│  │      memories.mp3
+│  │      morning glow.mp3
+│  │      old summer days.mp3
+│  │      rivulet.mp3
+│  │      worth living.mp3
+│  │      young lust.mp3
+│  │      
+│  ├─font
+│  │      font.ttf
+│  │      simhei.ttf
+│  │      方正少儿简体.ttf
+│  │      迷你简习字.ttf
+│  │      
+│  ├─img
+│  │      a1.png
+│  │      a10.png
+│  │      a2.png
+│  │      a3.png
+│  │      a4.png
+│  │      a5.png
+│  │      a6.png
+│  │      a7.png
+│  │      a8.png
+│  │      a9.png
+│  │      bg1.jpg
+│  │      bg11.jpg
+│  │      bg12.jpg
+│  │      bg13.jpg
+│  │      bg14.jpg
+│  │      bg15.jpg
+│  │      bg2.jpg
+│  │      bg3.jpg
+│  │      bg4.jpg
+│  │      bg5.jpg
+│  │      bg6.jpg
+│  │      bg7.jpg
+│  │      bg8.jpg
+│  │      black.jpg
+│  │      black.png
+│  │      c1.png
+│  │      c2.png
+│  │      c3.png
+│  │      c4.png
+│  │      c5.png
+│  │      c6.png
+│  │      c7.png
+│  │      c8.png
+│  │      c9.png
+│  │      cg1-1.png
+│  │      cg1-2.png
+│  │      cg1-3.png
+│  │      cg1-4.png
+│  │      cg2.png
+│  │      ed1-1.png
+│  │      ed1-2.png
+│  │      ed1-3.png
+│  │      ed1-4.png
+│  │      ed2-1.png
+│  │      ed2-2.png
+│  │      fin.jpg
+│  │      icon.png
+│  │      littlebutton.png
+│  │      littlebutton_orange.png
+│  │      littlebutton_yello.png
+│  │      mainmenubutton_on.png
+│  │      mainmenubutton_trans.png
+│  │      nextbar.png
+│  │      nextbar_orange.png
+│  │      o1.png
+│  │      o10.png
+│  │      o11.png
+│  │      o12.png
+│  │      o2.png
+│  │      o3.png
+│  │      o4.png
+│  │      o5.png
+│  │      o6.png
+│  │      o7.png
+│  │      o8.png
+│  │      o9.png
+│  │      openning.png
+│  │      peoboard.png
+│  │      prebar.png
+│  │      prebar_orange.png
+│  │      selection.png
+│  │      selection_orange.png
+│  │      textbar.png
+│  │      title.jpg
+│  │      trans.png
+│  │      txtboard.png
+│  │      white.jpg
+│  │      white.png
+│  │      
+│  ├─Lib26
+│  │  │  pygame-1.9.1-py2.6.egg-info
+│  │  │  
+│  │  └─pygame
+│  │      │  base.pyd
+│  │      │  bufferproxy.pyd
+│  │      │  camera.py
+│  │      │  cdrom.pyd
+│  │      │  color.pyd
+│  │      │  colordict.py
+│  │      │  colordict.pyc
+│  │      │  compat.py
+│  │      │  compat.pyc
+│  │      │  constants.pyd
+│  │      │  cursors.py
+│  │      │  cursors.pyc
+│  │      │  display.pyd
+│  │      │  draw.pyd
+│  │      │  event.pyd
+│  │      │  fastevent.pyd
+│  │      │  font.pyd
+│  │      │  freesansbold.ttf
+│  │      │  gfxdraw.pyd
+│  │      │  image.pyd
+│  │      │  imageext.pyd
+│  │      │  install.html
+│  │      │  joystick.pyd
+│  │      │  jpeg.dll
+│  │      │  key.pyd
+│  │      │  LGPL
+│  │      │  libfreetype-6.dll
+│  │      │  libogg-0.dll
+│  │      │  libpng12-0.dll
+│  │      │  libtiff.dll
+│  │      │  libvorbis-0.dll
+│  │      │  libvorbisfile-3.dll
+│  │      │  locals.py
+│  │      │  locals.pyc
+│  │      │  macosx.py
+│  │      │  mac_scrap.py
+│  │      │  mask.pyd
+│  │      │  midi.py
+│  │      │  mixer.pyd
+│  │      │  mixer_music.pyd
+│  │      │  mouse.pyd
+│  │      │  movie.pyd
+│  │      │  overlay.pyd
+│  │      │  pixelarray.pyd
+│  │      │  pkgdata.py
+│  │      │  pkgdata.pyc
+│  │      │  portmidi.dll
+│  │      │  pygame.ico
+│  │      │  pygame_icon.bmp
+│  │      │  pygame_icon.icns
+│  │      │  pygame_icon.svg
+│  │      │  pygame_icon.tiff
+│  │      │  pypm.pyd
+│  │      │  readme.html
+│  │      │  rect.pyd
+│  │      │  rwobject.pyd
+│  │      │  scrap.pyd
+│  │      │  SDL.dll
+│  │      │  SDL_image.dll
+│  │      │  SDL_mixer.dll
+│  │      │  SDL_ttf.dll
+│  │      │  smpeg.dll
+│  │      │  sndarray.py
+│  │      │  sndarray.pyc
+│  │      │  sprite.py
+│  │      │  sprite.pyc
+│  │      │  surface.pyd
+│  │      │  surfarray.py
+│  │      │  surfarray.pyc
+│  │      │  surflock.pyd
+│  │      │  sysfont.py
+│  │      │  sysfont.pyc
+│  │      │  time.pyd
+│  │      │  transform.pyd
+│  │      │  version.py
+│  │      │  version.pyc
+│  │      │  zlib1.dll
+│  │      │  _arraysurfarray.pyd
+│  │      │  _camera.pyd
+│  │      │  _camera_opencv_highgui.py
+│  │      │  _camera_vidcapture.py
+│  │      │  _numericsndarray.pyd
+│  │      │  _numericsurfarray.pyd
+│  │      │  _numpysndarray.py
+│  │      │  _numpysndarray.pyc
+│  │      │  _numpysurfarray.py
+│  │      │  _numpysurfarray.pyc
+│  │      │  __init__.py
+│  │      │  __init__.pyc
+│  │      │  
+│  │      ├─docs
+│  │      │  │  index.html
+│  │      │  │  logos.html
+│  │      │  │  pygame_logo.gif
+│  │      │  │  pygame_powered.gif
+│  │      │  │  pygame_small.gif
+│  │      │  │  pygame_tiny.gif
+│  │      │  │  __init__.py
+│  │      │  │  __main__.py
+│  │      │  │  
+│  │      │  ├─ref
+│  │      │  │      camera.html
+│  │      │  │      cdrom.html
+│  │      │  │      color.html
+│  │      │  │      cursors.html
+│  │      │  │      display.html
+│  │      │  │      draw.html
+│  │      │  │      event.html
+│  │      │  │      examples.html
+│  │      │  │      font.html
+│  │      │  │      gfxdraw.html
+│  │      │  │      image.html
+│  │      │  │      index.html
+│  │      │  │      joystick.html
+│  │      │  │      key.html
+│  │      │  │      locals.html
+│  │      │  │      mask.html
+│  │      │  │      midi.html
+│  │      │  │      mixer.html
+│  │      │  │      mouse.html
+│  │      │  │      movie.html
+│  │      │  │      music.html
+│  │      │  │      overlay.html
+│  │      │  │      pixelarray.html
+│  │      │  │      pygame.html
+│  │      │  │      pygame_cursor.html
+│  │      │  │      rect.html
+│  │      │  │      scrap.html
+│  │      │  │      sndarray.html
+│  │      │  │      sprite.html
+│  │      │  │      surface.html
+│  │      │  │      surfarray.html
+│  │      │  │      tests.html
+│  │      │  │      time.html
+│  │      │  │      transform.html
+│  │      │  │      
+│  │      │  └─tut
+│  │      │      │  DisplayModes.html
+│  │      │      │  ImportInit.html
+│  │      │      │  MoveIt.html
+│  │      │      │  newbieguide.html
+│  │      │      │  SpriteIntro.html
+│  │      │      │  
+│  │      │      ├─chimp
+│  │      │      │      chimp.py.html
+│  │      │      │      ChimpLineByLine.html
+│  │      │      │      chimpshot.gif
+│  │      │      │      
+│  │      │      ├─intro
+│  │      │      │      ball.gif
+│  │      │      │      blade.jpg
+│  │      │      │      freedom.jpg
+│  │      │      │      intro.html
+│  │      │      │      
+│  │      │      ├─surfarray
+│  │      │      │      allblack.jpg
+│  │      │      │      flipped.jpg
+│  │      │      │      imgarray.jpg
+│  │      │      │      redimg.jpg
+│  │      │      │      scaledown.jpg
+│  │      │      │      scaleup.jpg
+│  │      │      │      soften.jpg
+│  │      │      │      striped.jpg
+│  │      │      │      SurfarrayIntro.html
+│  │      │      │      xfade.jpg
+│  │      │      │      
+│  │      │      └─tom
+│  │      │              basic.png
+│  │      │              event-flowchart.png
+│  │      │              formulae.png
+│  │      │              games2.html
+│  │      │              games3.html
+│  │      │              games4.html
+│  │      │              games5.html
+│  │      │              games6.html
+│  │      │              MakeGames.html
+│  │      │              radians.png
+│  │      │              
+│  │      ├─examples
+│  │      │  │  aacircle.py
+│  │      │  │  aliens.py
+│  │      │  │  arraydemo.py
+│  │      │  │  blend_fill.py
+│  │      │  │  blit_blends.py
+│  │      │  │  camera.py
+│  │      │  │  chimp.py
+│  │      │  │  cursors.py
+│  │      │  │  eventlist.py
+│  │      │  │  fastevents.py
+│  │      │  │  fonty.py
+│  │      │  │  glcube.py
+│  │      │  │  headless_no_windows_needed.py
+│  │      │  │  liquid.py
+│  │      │  │  mask.py
+│  │      │  │  midi.py
+│  │      │  │  moveit.py
+│  │      │  │  movieplayer.py
+│  │      │  │  oldalien.py
+│  │      │  │  overlay.py
+│  │      │  │  pixelarray.py
+│  │      │  │  readme.txt
+│  │      │  │  scaletest.py
+│  │      │  │  scrap_clipboard.py
+│  │      │  │  scroll.py
+│  │      │  │  sound.py
+│  │      │  │  sound_array_demos.py
+│  │      │  │  stars.py
+│  │      │  │  testsprite.py
+│  │      │  │  vgrade.py
+│  │      │  │  __init__.py
+│  │      │  │  
+│  │      │  ├─data
+│  │      │  │      alien1.gif
+│  │      │  │      alien1.jpg
+│  │      │  │      alien1.png
+│  │      │  │      alien2.gif
+│  │      │  │      alien2.png
+│  │      │  │      alien3.gif
+│  │      │  │      alien3.png
+│  │      │  │      arraydemo.bmp
+│  │      │  │      asprite.bmp
+│  │      │  │      background.gif
+│  │      │  │      blue.mpg
+│  │      │  │      bomb.gif
+│  │      │  │      boom.wav
+│  │      │  │      car_door.wav
+│  │      │  │      chimp.bmp
+│  │      │  │      danger.gif
+│  │      │  │      explosion1.gif
+│  │      │  │      fist.bmp
+│  │      │  │      house_lo.mp3
+│  │      │  │      house_lo.ogg
+│  │      │  │      house_lo.wav
+│  │      │  │      liquid.bmp
+│  │      │  │      midikeys.png
+│  │      │  │      oldplayer.gif
+│  │      │  │      player1.gif
+│  │      │  │      punch.wav
+│  │      │  │      secosmic_lo.wav
+│  │      │  │      shot.gif
+│  │      │  │      static.png
+│  │      │  │      whiff.wav
+│  │      │  │      yuv_1.pgm
+│  │      │  │      
+│  │      │  └─macosx
+│  │      │      │  macfont.py
+│  │      │      │  
+│  │      │      └─aliens_app_example
+│  │      │          │  aliens.py
+│  │      │          │  README.txt
+│  │      │          │  setup.py
+│  │      │          │  
+│  │      │          └─English.lproj
+│  │      │              │  aliens.icns
+│  │      │              │  
+│  │      │              └─MainMenu.nib
+│  │      │                      classes.nib
+│  │      │                      info.nib
+│  │      │                      JavaCompiling.plist
+│  │      │                      keyedobjects.nib
+│  │      │                      _MainMenu_EOArchive_English.java
+│  │      │                      
+│  │      ├─gp2x
+│  │      │      constants.py
+│  │      │      locals.py
+│  │      │      __init__.py
+│  │      │      
+│  │      ├─tests
+│  │      │  │  base_test.py
+│  │      │  │  blit_test.py
+│  │      │  │  bufferproxy_test.py
+│  │      │  │  cdrom_tags.py
+│  │      │  │  cdrom_test.py
+│  │      │  │  color_test.py
+│  │      │  │  cursors_test.py
+│  │      │  │  display_test.py
+│  │      │  │  draw_test.py
+│  │      │  │  event_test.py
+│  │      │  │  fastevent_test.py
+│  │      │  │  font_test.py
+│  │      │  │  gfxdraw_test.py
+│  │      │  │  image_test.py
+│  │      │  │  image__save_gl_surface_test.py
+│  │      │  │  joystick_test.py
+│  │      │  │  key_test.py
+│  │      │  │  mask_test.py
+│  │      │  │  midi_test.py
+│  │      │  │  mixer_music_test.py
+│  │      │  │  mixer_test.py
+│  │      │  │  mouse_test.py
+│  │      │  │  movie_tags.py
+│  │      │  │  movie_test.py
+│  │      │  │  overlay_test.py
+│  │      │  │  pixelarray_test.py
+│  │      │  │  rect_test.py
+│  │      │  │  scrap_tags.py
+│  │      │  │  scrap_test.py
+│  │      │  │  sndarray_tags.py
+│  │      │  │  sndarray_test.py
+│  │      │  │  sprite_test.py
+│  │      │  │  surface_test.py
+│  │      │  │  surfarray_tags.py
+│  │      │  │  surfarray_test.py
+│  │      │  │  surflock_test.py
+│  │      │  │  sysfont_test.py
+│  │      │  │  test_test_.py
+│  │      │  │  threads_tags.py
+│  │      │  │  threads_test.py
+│  │      │  │  time_test.py
+│  │      │  │  transform_test.py
+│  │      │  │  __init__.py
+│  │      │  │  __main__.py
+│  │      │  │  
+│  │      │  ├─fixtures
+│  │      │  │  └─xbm_cursors
+│  │      │  │          white_sizing.xbm
+│  │      │  │          white_sizing_mask.xbm
+│  │      │  │          
+│  │      │  ├─run_tests__tests
+│  │      │  │  │  run_tests__test.py
+│  │      │  │  │  __init__.py
+│  │      │  │  │  
+│  │      │  │  ├─all_ok
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      fake_3_test.py
+│  │      │  │  │      fake_4_test.py
+│  │      │  │  │      fake_5_test.py
+│  │      │  │  │      fake_6_test.py
+│  │      │  │  │      no_assertions__ret_code_of_1__test.py
+│  │      │  │  │      zero_tests_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─everything
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      incomplete_todo_test.py
+│  │      │  │  │      magic_tag_test.py
+│  │      │  │  │      sleep_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─exclude
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      invisible_tag_test.py
+│  │      │  │  │      magic_tag_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─failures1
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      fake_3_test.py
+│  │      │  │  │      fake_4_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─incomplete
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      fake_3_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─incomplete_todo
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      fake_3_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─infinite_loop
+│  │      │  │  │      fake_1_test.py
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─print_stderr
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      fake_3_test.py
+│  │      │  │  │      fake_4_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─print_stdout
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      fake_3_test.py
+│  │      │  │  │      fake_4_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  └─timeout
+│  │      │  │          fake_2_test.py
+│  │      │  │          sleep_test.py
+│  │      │  │          __init__.py
+│  │      │  │          
+│  │      │  └─test_utils
+│  │      │          async_sub.py
+│  │      │          run_tests.py
+│  │      │          test_runner.py
+│  │      │          unittest.py
+│  │      │          unittest_patch.py
+│  │      │          __init__.py
+│  │      │          
+│  │      └─threads
+│  │              Py25Queue.py
+│  │              __init__.py
+│  │              __init__.pyc
+│  │              
+│  ├─Lib27
+│  │  │  pygame-1.9.2a0-py2.7.egg-info
+│  │  │  
+│  │  └─pygame
+│  │      │  avcodec-52.dll
+│  │      │  avformat-52.dll
+│  │      │  avutil-50.dll
+│  │      │  base.pyd
+│  │      │  bufferproxy.pyd
+│  │      │  camera.py
+│  │      │  cdrom.pyd
+│  │      │  color.pyd
+│  │      │  colordict.py
+│  │      │  compat.py
+│  │      │  constants.pyd
+│  │      │  cursors.py
+│  │      │  display.pyd
+│  │      │  draw.pyd
+│  │      │  event.pyd
+│  │      │  fastevent.pyd
+│  │      │  font.pyd
+│  │      │  freesansbold.ttf
+│  │      │  gfxdraw.pyd
+│  │      │  image.pyd
+│  │      │  imageext.pyd
+│  │      │  install.html
+│  │      │  joystick.pyd
+│  │      │  key.pyd
+│  │      │  LGPL
+│  │      │  libfreetype-6.dll
+│  │      │  libjpeg-8.dll
+│  │      │  libogg-0.dll
+│  │      │  libpng14.dll
+│  │      │  libtiff-3.dll
+│  │      │  libvorbis-0.dll
+│  │      │  libvorbisfile-3.dll
+│  │      │  locals.py
+│  │      │  macosx.py
+│  │      │  mac_scrap.py
+│  │      │  mask.pyd
+│  │      │  math.pyd
+│  │      │  midi.py
+│  │      │  mixer.pyd
+│  │      │  mixer_music.pyd
+│  │      │  mouse.pyd
+│  │      │  movie.pyd
+│  │      │  nmovie.py
+│  │      │  overlay.pyd
+│  │      │  pixelarray.pyd
+│  │      │  pixelcopy.pyd
+│  │      │  pkgdata.py
+│  │      │  portmidi.dll
+│  │      │  pygame.ico
+│  │      │  pygame_icon.bmp
+│  │      │  pygame_icon.icns
+│  │      │  pygame_icon.svg
+│  │      │  pygame_icon.tiff
+│  │      │  pypm.pyd
+│  │      │  readme.html
+│  │      │  rect.pyd
+│  │      │  rwobject.pyd
+│  │      │  scrap.pyd
+│  │      │  SDL.dll
+│  │      │  SDL_image.dll
+│  │      │  SDL_mixer.dll
+│  │      │  SDL_ttf.dll
+│  │      │  smpeg.dll
+│  │      │  sndarray.py
+│  │      │  sprite.py
+│  │      │  surface.pyd
+│  │      │  surfarray.py
+│  │      │  surflock.pyd
+│  │      │  swscale-0.dll
+│  │      │  sysfont.py
+│  │      │  time.pyd
+│  │      │  transform.pyd
+│  │      │  version.py
+│  │      │  zlib1.dll
+│  │      │  _camera_opencv_highgui.py
+│  │      │  _camera_vidcapture.py
+│  │      │  _dummybackend.py
+│  │      │  _numericsndarray.pyd
+│  │      │  _numericsurfarray.pyd
+│  │      │  _numpysndarray.py
+│  │      │  _numpysurfarray.py
+│  │      │  _view.pyd
+│  │      │  _vlcbackend.py
+│  │      │  __init__.py
+│  │      │  
+│  │      ├─docs
+│  │      │  │  filepaths.html
+│  │      │  │  index.html
+│  │      │  │  logos.html
+│  │      │  │  pygame_logo.gif
+│  │      │  │  pygame_powered.gif
+│  │      │  │  pygame_small.gif
+│  │      │  │  pygame_tiny.gif
+│  │      │  │  __init__.py
+│  │      │  │  __main__.py
+│  │      │  │  
+│  │      │  ├─ref
+│  │      │  │      camera.html
+│  │      │  │      cdrom.html
+│  │      │  │      color.html
+│  │      │  │      cursors.html
+│  │      │  │      display.html
+│  │      │  │      draw.html
+│  │      │  │      event.html
+│  │      │  │      examples.html
+│  │      │  │      font.html
+│  │      │  │      freetype.html
+│  │      │  │      gfxdraw.html
+│  │      │  │      image.html
+│  │      │  │      index.html
+│  │      │  │      joystick.html
+│  │      │  │      key.html
+│  │      │  │      locals.html
+│  │      │  │      mask.html
+│  │      │  │      math.html
+│  │      │  │      midi.html
+│  │      │  │      mixer.html
+│  │      │  │      mouse.html
+│  │      │  │      movie.html
+│  │      │  │      music.html
+│  │      │  │      overlay.html
+│  │      │  │      pixelarray.html
+│  │      │  │      pixelcopy.html
+│  │      │  │      pygame.html
+│  │      │  │      pygame_cursor.html
+│  │      │  │      rect.html
+│  │      │  │      scrap.html
+│  │      │  │      sndarray.html
+│  │      │  │      sprite.html
+│  │      │  │      surface.html
+│  │      │  │      surfarray.html
+│  │      │  │      tests.html
+│  │      │  │      time.html
+│  │      │  │      transform.html
+│  │      │  │      
+│  │      │  └─tut
+│  │      │      │  DisplayModes.html
+│  │      │      │  ImportInit.html
+│  │      │      │  MoveIt.html
+│  │      │      │  newbieguide.html
+│  │      │      │  SpriteIntro.html
+│  │      │      │  
+│  │      │      ├─chimp
+│  │      │      │      chimp.py.html
+│  │      │      │      ChimpLineByLine.html
+│  │      │      │      chimpshot.gif
+│  │      │      │      
+│  │      │      ├─intro
+│  │      │      │      ball.gif
+│  │      │      │      blade.jpg
+│  │      │      │      freedom.jpg
+│  │      │      │      intro.html
+│  │      │      │      
+│  │      │      ├─surfarray
+│  │      │      │      allblack.jpg
+│  │      │      │      flipped.jpg
+│  │      │      │      imgarray.jpg
+│  │      │      │      redimg.jpg
+│  │      │      │      scaledown.jpg
+│  │      │      │      scaleup.jpg
+│  │      │      │      soften.jpg
+│  │      │      │      striped.jpg
+│  │      │      │      SurfarrayIntro.html
+│  │      │      │      xfade.jpg
+│  │      │      │      
+│  │      │      └─tom
+│  │      │              basic.png
+│  │      │              event-flowchart.png
+│  │      │              formulae.png
+│  │      │              games2.html
+│  │      │              games3.html
+│  │      │              games4.html
+│  │      │              games5.html
+│  │      │              games6.html
+│  │      │              MakeGames.html
+│  │      │              radians.png
+│  │      │              
+│  │      ├─examples
+│  │      │  │  aacircle.py
+│  │      │  │  aliens.py
+│  │      │  │  arraydemo.py
+│  │      │  │  blend_fill.py
+│  │      │  │  blit_blends.py
+│  │      │  │  camera.py
+│  │      │  │  chimp.py
+│  │      │  │  cursors.py
+│  │      │  │  eventlist.py
+│  │      │  │  fastevents.py
+│  │      │  │  fonty.py
+│  │      │  │  freetype_misc.py
+│  │      │  │  glcube.py
+│  │      │  │  headless_no_windows_needed.py
+│  │      │  │  liquid.py
+│  │      │  │  mask.py
+│  │      │  │  midi.py
+│  │      │  │  moveit.py
+│  │      │  │  movieplayer.py
+│  │      │  │  oldalien.py
+│  │      │  │  overlay.py
+│  │      │  │  pixelarray.py
+│  │      │  │  readme.txt
+│  │      │  │  scaletest.py
+│  │      │  │  scrap_clipboard.py
+│  │      │  │  scroll.py
+│  │      │  │  sound.py
+│  │      │  │  sound_array_demos.py
+│  │      │  │  stars.py
+│  │      │  │  testsprite.py
+│  │      │  │  vgrade.py
+│  │      │  │  __init__.py
+│  │      │  │  __movie_test.py
+│  │      │  │  
+│  │      │  ├─data
+│  │      │  │      alien1.gif
+│  │      │  │      alien1.jpg
+│  │      │  │      alien1.png
+│  │      │  │      alien2.gif
+│  │      │  │      alien2.png
+│  │      │  │      alien3.gif
+│  │      │  │      alien3.png
+│  │      │  │      arraydemo.bmp
+│  │      │  │      asprite.bmp
+│  │      │  │      background.gif
+│  │      │  │      blue.mpg
+│  │      │  │      bomb.gif
+│  │      │  │      boom.wav
+│  │      │  │      car_door.wav
+│  │      │  │      chimp.bmp
+│  │      │  │      danger.gif
+│  │      │  │      explosion1.gif
+│  │      │  │      fist.bmp
+│  │      │  │      house_lo.mp3
+│  │      │  │      house_lo.ogg
+│  │      │  │      house_lo.wav
+│  │      │  │      liquid.bmp
+│  │      │  │      midikeys.png
+│  │      │  │      oldplayer.gif
+│  │      │  │      player1.gif
+│  │      │  │      punch.wav
+│  │      │  │      sans.ttf
+│  │      │  │      secosmic_lo.wav
+│  │      │  │      shot.gif
+│  │      │  │      static.png
+│  │      │  │      whiff.wav
+│  │      │  │      yuv_1.pgm
+│  │      │  │      
+│  │      │  └─macosx
+│  │      │      │  macfont.py
+│  │      │      │  
+│  │      │      └─aliens_app_example
+│  │      │          │  aliens.py
+│  │      │          │  README.txt
+│  │      │          │  setup.py
+│  │      │          │  
+│  │      │          └─English.lproj
+│  │      │              │  aliens.icns
+│  │      │              │  
+│  │      │              └─MainMenu.nib
+│  │      │                      classes.nib
+│  │      │                      info.nib
+│  │      │                      JavaCompiling.plist
+│  │      │                      keyedobjects.nib
+│  │      │                      _MainMenu_EOArchive_English.java
+│  │      │                      
+│  │      ├─gp2x
+│  │      │      constants.py
+│  │      │      locals.py
+│  │      │      __init__.py
+│  │      │      
+│  │      ├─tests
+│  │      │  │  base_test.py
+│  │      │  │  blit_test.py
+│  │      │  │  bufferproxy_test.py
+│  │      │  │  camera_test.py
+│  │      │  │  cdrom_tags.py
+│  │      │  │  cdrom_test.py
+│  │      │  │  color_test.py
+│  │      │  │  compat_test.py
+│  │      │  │  cursors_test.py
+│  │      │  │  display_test.py
+│  │      │  │  draw_test.py
+│  │      │  │  event_test.py
+│  │      │  │  fastevent_test.py
+│  │      │  │  font_tags.py
+│  │      │  │  font_test.py
+│  │      │  │  freetype_font_tags.py
+│  │      │  │  freetype_font_test.py
+│  │      │  │  gfxdraw_test.py
+│  │      │  │  imageext_tags.py
+│  │      │  │  imageext_test.py
+│  │      │  │  image_tags.py
+│  │      │  │  image_test.py
+│  │      │  │  image__save_gl_surface_test.py
+│  │      │  │  joystick_test.py
+│  │      │  │  key_test.py
+│  │      │  │  mask_test.py
+│  │      │  │  math_test.py
+│  │      │  │  midi_tags.py
+│  │      │  │  midi_test.py
+│  │      │  │  mixer_music_tags.py
+│  │      │  │  mixer_music_test.py
+│  │      │  │  mixer_tags.py
+│  │      │  │  mixer_test.py
+│  │      │  │  mouse_test.py
+│  │      │  │  movie_tags.py
+│  │      │  │  movie_test.py
+│  │      │  │  overlay_test.py
+│  │      │  │  pixelarray_test.py
+│  │      │  │  pixelcopy_test.py
+│  │      │  │  rect_test.py
+│  │      │  │  rwobject_test.py
+│  │      │  │  scrap_tags.py
+│  │      │  │  scrap_test.py
+│  │      │  │  sndarray_tags.py
+│  │      │  │  sndarray_test.py
+│  │      │  │  sprite_test.py
+│  │      │  │  surface_test.py
+│  │      │  │  surfarray_tags.py
+│  │      │  │  surfarray_test.py
+│  │      │  │  surflock_test.py
+│  │      │  │  sysfont_test.py
+│  │      │  │  test_test_.py
+│  │      │  │  threads_tags.py
+│  │      │  │  threads_test.py
+│  │      │  │  time_test.py
+│  │      │  │  transform_test.py
+│  │      │  │  _dummymovietest.py
+│  │      │  │  _movie_tags.py
+│  │      │  │  _movie_test.py
+│  │      │  │  _view_test.py
+│  │      │  │  _vlcmovietest.py
+│  │      │  │  __init__.py
+│  │      │  │  __main__.py
+│  │      │  │  
+│  │      │  ├─fixtures
+│  │      │  │  ├─fonts
+│  │      │  │  │      test_fixed.otf
+│  │      │  │  │      test_sans.ttf
+│  │      │  │  │      
+│  │      │  │  └─xbm_cursors
+│  │      │  │          white_sizing.xbm
+│  │      │  │          white_sizing_mask.xbm
+│  │      │  │          
+│  │      │  ├─run_tests__tests
+│  │      │  │  │  run_tests__test.py
+│  │      │  │  │  __init__.py
+│  │      │  │  │  
+│  │      │  │  ├─all_ok
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      fake_3_test.py
+│  │      │  │  │      fake_4_test.py
+│  │      │  │  │      fake_5_test.py
+│  │      │  │  │      fake_6_test.py
+│  │      │  │  │      no_assertions__ret_code_of_1__test.py
+│  │      │  │  │      zero_tests_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─everything
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      incomplete_todo_test.py
+│  │      │  │  │      magic_tag_test.py
+│  │      │  │  │      sleep_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─exclude
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      invisible_tag_test.py
+│  │      │  │  │      magic_tag_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─failures1
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      fake_3_test.py
+│  │      │  │  │      fake_4_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─incomplete
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      fake_3_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─incomplete_todo
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      fake_3_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─infinite_loop
+│  │      │  │  │      fake_1_test.py
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─print_stderr
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      fake_3_test.py
+│  │      │  │  │      fake_4_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  ├─print_stdout
+│  │      │  │  │      fake_2_test.py
+│  │      │  │  │      fake_3_test.py
+│  │      │  │  │      fake_4_test.py
+│  │      │  │  │      __init__.py
+│  │      │  │  │      
+│  │      │  │  └─timeout
+│  │      │  │          fake_2_test.py
+│  │      │  │          sleep_test.py
+│  │      │  │          __init__.py
+│  │      │  │          
+│  │      │  └─test_utils
+│  │      │          arrinter.py
+│  │      │          async_sub.py
+│  │      │          run_tests.py
+│  │      │          test_runner.py
+│  │      │          unittest.py
+│  │      │          unittest_patch.py
+│  │      │          __init__.py
+│  │      │          
+│  │      └─threads
+│  │              Py25Queue.py
+│  │              __init__.py
+│  │              
+│  ├─save
+│  │      read.sav
+│  │      
+│  ├─seen
+│  │      seen.xml
+│  │      
+│  ├─src
+│  │      avgbase.py
+│  │      avgbase.pyc
+│  │      back.py
+│  │      front.py
+│  │      front.pyc
+│  │      GalleryLayer.py
+│  │      GalleryLayer.pyc
+│  │      Layer.py
+│  │      Layer.pyc
+│  │      lib_avgextend.py
+│  │      lib_avgextend.pyc
+│  │      lib_bgm.py
+│  │      lib_bgm.pyc
+│  │      lib_font.py
+│  │      lib_font.pyc
+│  │      lib_img.py
+│  │      lib_img.pyc
+│  │      lib_ui.py
+│  │      lib_ui.pyc
+│  │      lib_wav.py
+│  │      lib_wav.pyc
+│  │      MainMenuLayer.py
+│  │      MainMenuLayer.pyc
+│  │      OpenLayer.py
+│  │      OpenLayer.pyc
+│  │      saveload.py
+│  │      saveload.pyc
+│  │      settings.py
+│  │      settings.pyc
+│  │      StoryLayer.py
+│  │      StoryLayer.pyc
+│  │      t.cmd
+│  │      文件夹结构.txt
+│  │      文件结构.txt
+│  │      
+│  └─wav
+│          abura.wav
+│          ame.wav
+│          baki.wav
+│          basari.wav
+│          bung.wav
+│          dango.wav
+│          dogusi.wav
+│          don.wav
+│          door_1.wav
+│          door_2.wav
+│          door_3.wav
+│          end.wav
+│          engine.wav
+│          fire.wav
+│          footstep.wav
+│          fufan00.wav
+│          fufan01.wav
+│          gabu.wav
+│          hget.wav
+│          higurashi.wav
+│          hirate.wav
+│          howacha.wav
+│          huse.wav
+│          ignite.wav
+│          keylock.wav
+│          kick.wav
+│          knock.wav
+│          kuma.wav
+│          kyofu.wav
+│          kyupeen.wav
+│          mushi.wav
+│          nakama.wav
+│          nami.wav
+│          pikin.wav
+│          rain_in.wav
+│          rain_out.wav
+│          ring.wav
+│          s00.wav
+│          s01.wav
+│          s02.wav
+│          s03.wav
+│          senritu.wav
+│          shouri.wav
+│          sizen.wav
+│          steal.wav
+│          supon.wav
+│          swing.wav
+│          tret.wav
+│          tsignal.wav
+│          tunami.wav
+│          uoo.wav
+│          upstairs.wav
+│          
+└─说明
+    │  演示说明.pdf
+    │  演示说明.ppt
+    │  读我文档.doc
+    │  读我文档.pdf
+    │  
+    └─img
+            主界面1.png
+            主界面2.png
+            保存.png
+            动态按钮.png
+            新字体.png
+            旁白.png
+            显示CG.png
+            欣赏CG.png
+            游戏中.png
+            背景渐变.png
+            自动播放.png
+            读取.png
+            返回主菜单.png
+            选择支.png
+            鉴赏.png
+            

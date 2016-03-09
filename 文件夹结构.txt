@@ -1,0 +1,78 @@
+卷 Data 的文件夹 PATH 列表
+卷序列号为 DA0E-D9CF
+E:.
+├─[Python][AVG]Sinners
+│  ├─bgm
+│  ├─font
+│  ├─img
+│  ├─Lib26
+│  │  └─pygame
+│  │      ├─docs
+│  │      │  ├─ref
+│  │      │  └─tut
+│  │      │      ├─chimp
+│  │      │      ├─intro
+│  │      │      ├─surfarray
+│  │      │      └─tom
+│  │      ├─examples
+│  │      │  ├─data
+│  │      │  └─macosx
+│  │      │      └─aliens_app_example
+│  │      │          └─English.lproj
+│  │      │              └─MainMenu.nib
+│  │      ├─gp2x
+│  │      ├─tests
+│  │      │  ├─fixtures
+│  │      │  │  └─xbm_cursors
+│  │      │  ├─run_tests__tests
+│  │      │  │  ├─all_ok
+│  │      │  │  ├─everything
+│  │      │  │  ├─exclude
+│  │      │  │  ├─failures1
+│  │      │  │  ├─incomplete
+│  │      │  │  ├─incomplete_todo
+│  │      │  │  ├─infinite_loop
+│  │      │  │  ├─print_stderr
+│  │      │  │  ├─print_stdout
+│  │      │  │  └─timeout
+│  │      │  └─test_utils
+│  │      └─threads
+│  ├─Lib27
+│  │  └─pygame
+│  │      ├─docs
+│  │      │  ├─ref
+│  │      │  └─tut
+│  │      │      ├─chimp
+│  │      │      ├─intro
+│  │      │      ├─surfarray
+│  │      │      └─tom
+│  │      ├─examples
+│  │      │  ├─data
+│  │      │  └─macosx
+│  │      │      └─aliens_app_example
+│  │      │          └─English.lproj
+│  │      │              └─MainMenu.nib
+│  │      ├─gp2x
+│  │      ├─tests
+│  │      │  ├─fixtures
+│  │      │  │  ├─fonts
+│  │      │  │  └─xbm_cursors
+│  │      │  ├─run_tests__tests
+│  │      │  │  ├─all_ok
+│  │      │  │  ├─everything
+│  │      │  │  ├─exclude
+│  │      │  │  ├─failures1
+│  │      │  │  ├─incomplete
+│  │      │  │  ├─incomplete_todo
+│  │      │  │  ├─infinite_loop
+│  │      │  │  ├─print_stderr
+│  │      │  │  ├─print_stdout
+│  │      │  │  └─timeout
+│  │      │  └─test_utils
+│  │      └─threads
+│  ├─save
+│  ├─seen
+│  ├─src
+│  └─wav
+└─说明
+    └─img

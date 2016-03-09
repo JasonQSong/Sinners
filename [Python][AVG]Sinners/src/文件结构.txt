@@ -1,0 +1,25 @@
+卷 Data 的文件夹 PATH 列表
+卷序列号为 DA0E-D9CF
+E:.
+    avgbase.py
+    back.py
+    front.py
+    GalleryLayer.py
+    Layer.py
+    lib_avgextend.py
+    lib_bgm.py
+    lib_font.py
+    lib_img.py
+    lib_ui.py
+    lib_wav.py
+    MainMenuLayer.py
+    OpenLayer.py
+    saveload.py
+    settings.py
+    StoryLayer.py
+    t.cmd
+    文件夹结构.txt
+    文件结构.txt
+    
+没有子文件夹 
+
